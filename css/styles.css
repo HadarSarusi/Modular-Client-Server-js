@@ -1,0 +1,24 @@
+body { 
+    font-family: Arial, sans-serif; 
+    text-align: center; 
+}
+
+.hidden { 
+    display: none; 
+}
+
+.form-container {
+    margin: 20px auto;
+    width: 300px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.task-item {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 5px;
+    display: inline-block;
+    background: #f9f9f9;
+}

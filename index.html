@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>To Do List - Test Flow</title>
+</head>
+<body>
+    <h1>To Do List - בדיקת זרימה</h1>
+    <button onclick="runTest()">בדוק זרימה</button>
+
+    <!-- כל הסקריפטים מתוך תקיית js -->
+    <script src="js/network.js"></script>
+    <script src="js/taskServer.js"></script>
+    <script src="js/authServer.js"></script>
+    <script src="js/tasksDB.js"></script>
+    <script src="js/authDB.js"></script>
+    <script src="js/fajax.js"></script>
+    <script src="js/check.js"></script>
+
+    <script>
+        function runTest() {
+            if (typeof startTestFlow === 'function') {
+                startTestFlow();
+            } else {
+                console.error('startTestFlow() לא מוגדרת בתוך check.js');
+            }
+        }
+    </script>
+</body>
+</html>
