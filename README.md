@@ -117,9 +117,16 @@ No dependencies required.
 
 ## 🔥 Created By 🔥
 
-💎 **Hadar Sarusi** 💎  
+<div align="center">
 
-[![GitHub](https://img.shields.io/badge/GITHUB-HadarSarusi-1F6FEB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HadarSarusi)
+<img src="https://github.com/HadarSarusi.png" width="120" style="border-radius: 50%;" />
+
+### 💎 Hadar Sarusi 💎
+
+[![GitHub](https://img.shields.io/badge/GITHUB-HADARSARUSI-1F6FEB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HadarSarusi)
+
+</div>
+
 
 ---
 
